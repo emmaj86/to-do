@@ -1,0 +1,42 @@
+body{
+    background-color: #FFF5EE;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+li{
+    margin-top: 40px;
+    display: flex;
+    
+    justify-content:center;
+    
+    align-items: center;
+    text-decoration: none;
+}
+
+li button{
+    margin: 10px;
+   
+}
+
+button{
+    background-color: #FFF0F5;
+}
+
+button:hover{
+    background-color: #FFFFF0;
+}
